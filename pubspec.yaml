@@ -1,4 +1,4 @@
-name: openapi
+name: frappe_dart_api_client
 version: 1.0.0
 description: Frappe - nexterp - flutter API client
 authors:
