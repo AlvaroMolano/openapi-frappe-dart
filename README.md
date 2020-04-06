@@ -21,7 +21,17 @@ Dart 2.0 or later
 
 ## Getting Started
 
-Please follow the [installation procedure](#installation--usage) and then run the following:
+Add
+frappe_dart_api_client
+```
+dependencies:
+  flutter:
+    sdk: flutter
+  frappe_dart_api_client:
+    git: https://github.com/AlvaroMolano/openapi-frappe-dart.git
+```
+
+```flutter pub get```
 
 ```dart
 import 'package:openapi/api.dart';
