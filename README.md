@@ -136,6 +136,8 @@ Class | Method | HTTP request | Description
 ## Authors
 
 alvaro@appsirradia.es
-raffael@alyf.de
+
+## Credits
+Thanks to the unofficial open api documentation created by raffael@alyf.de
 
 
